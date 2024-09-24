@@ -9,3 +9,9 @@ Estoy en el curso inicial de QA Automation, que dicta Egg.
 # Contactame a este correo electronico
 
 lsoressi@gmail.com
+
+## SKILLS
+
+    -Comunicativa
+    -Detallista
+    -Organizada
