@@ -4,12 +4,26 @@ Hola Mundo Test
 
 Estoy en el curso inicial de QA Automation, que dicta Egg.
 
-## Ejercitando como usar git
+Ejercitando como usar git
 
 # Contactame a este correo electronico
 
 lsoressi@gmail.com
 
+
+## Technologies
+
+    -HTML
+    -CSS
+    -JAVA SCRIPT
+
+
+## SKILLS
+
+    -Comunicativa
+    -Detallista
+    -Organizada
+    
 ## HOBBIES
 
     -Caminatas
