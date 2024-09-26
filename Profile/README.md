@@ -15,3 +15,7 @@ lsoressi@gmail.com
     -HTML
     -CSS
     -JAVA SCRIPT
+
+## Languages
+    Espaniol
+    Ingles
