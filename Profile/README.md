@@ -10,6 +10,7 @@ Ejercitando como usar git
 
 lsoressi@gmail.com
 
+
 ## Technologies
 
     -HTML
@@ -22,5 +23,7 @@ lsoressi@gmail.com
     -Comunicativa
     -Detallista
     -Organizada
+    
+## HOBBIES
 
-
+    -Caminatas
