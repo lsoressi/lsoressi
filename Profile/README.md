@@ -15,3 +15,12 @@ lsoressi@gmail.com
     -HTML
     -CSS
     -JAVA SCRIPT
+
+
+## SKILLS
+
+    -Comunicativa
+    -Detallista
+    -Organizada
+
+
